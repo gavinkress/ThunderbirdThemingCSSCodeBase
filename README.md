@@ -1,5 +1,5 @@
 <h1 style="text-align: center; color: #0A74DA;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Thunderbird_logo.svg/256px-Thunderbird_logo.svg.png" alt="Thunderbird Logo" style="height: 50px; vertical-align: middle; margin-right: 10px;">
+  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Thunderbird_Logo%2C_2018.svg/244px-Thunderbird_Logo%2C_2018.svg.png alt="Thunderbird Logo" style="height: 50px; vertical-align: middle; margin-right: 10px;">
   Thunderbird Custom CSS Repository
 </h1>
 
@@ -10,7 +10,7 @@
 <hr style="border: 2px solid #00a57c;" />
 
 <h2 style="color: #0A74DA;">
-  <img src="https://img.icons8.com/ios/50/000000/rules.png" alt="Rules Icon" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=48003&format=png&color=000000" alt="Rules Icon" style="height: 30px; vertical-align: middle; margin-right: 10px;">
   GitHub Page Rules
 </h2>
 <ul style="line-height: 1.8; font-size: 1.1em; color: #333;">
@@ -21,7 +21,7 @@
 </ul>
 
 <h3 style="color: #00a57c;">
-  <img src="https://img.icons8.com/ios-filled/50/000000/contribute.png" alt="Contribute Icon" style="height: 25px; vertical-align: middle; margin-right: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=44048&format=png&color=000000" alt="Contribute Icon" style="height: 25px; vertical-align: middle; margin-right: 10px;">
   How to Pull and Make Changes
 </h3>
 <ol style="line-height: 1.8; font-size: 1.1em; color: #333;">
@@ -37,7 +37,7 @@
 <hr style="border: 2px solid #00a57c;" />
 
 <h2 style="color: #0A74DA;">
-  <img src="https://img.icons8.com/ios/50/000000/css-filetype.png" alt="CSS Icon" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=49489&format=png&color=000000" alt="CSS Icon" style="height: 30px; vertical-align: middle; margin-right: 10px;">
   Introduction to Using CSS in Thunderbird
 </h2>
 <p style="font-size: 1.1em; color: #333;">
@@ -58,7 +58,7 @@
 <hr style="border: 2px solid #00a57c;" />
 
 <h2 style="color: #0A74DA;">
-  <img src="https://img.icons8.com/ios/50/000000/conference.png" alt="Contribution Icon" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=UeyNgv1VXSvl&format=png&color=000000" alt="Contribution Icon" style="height: 30px; vertical-align: middle; margin-right: 10px;">
   Contributing
 </h2>
 <p style="font-size: 1.1em; color: #333;">
@@ -66,8 +66,8 @@
 </p>
 
 <p style="text-align: center; color: #00a57c;">
-  <a href="https://github.com/your-repo-link" style="color: #0A74DA; text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Logo" style="height: 40px; vertical-align: middle;">
+  <a href="https://github.com/gavinkress/ThunderbirdThemingCSSCodeBase" style="color: #0A74DA; text-decoration: none;">
+    <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="GitHub Logo" style="height: 40px; vertical-align: middle;">
     Visit the Repository
   </a>
 </p>
