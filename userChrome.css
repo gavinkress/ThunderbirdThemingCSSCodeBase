@@ -1,6 +1,7 @@
 /**
 * This code allows you to fully customize the appearance of the Thunderbird message table in both the Thread Pane and the Thread Card view. It also includes other useful modifications/features outlined below.
-* It allows you to specify the colors for unread, new, and read messages, as well as the colors for the hover, selected, and current states, select custom colors for icons, buttons, and more. You can use the preset variables in the top root for a quick theme change. Use the variables in the other root for a more thoruogh customization. Or even modify the colors in the code itself. All the sections are commented for easy understanding.
+* It allows you to specify the colors for unread, new, and read messages, as well as the colors for the hover, selected, and current states, select custom colors for icons, buttons, and more. 
+* You can use the preset variables in the top root for a quick theme change. Use the variables in the other root for a more thoruogh customization. Or even modify the colors in the code itself. All the sections are commented for quick access and comprehension.
 * You can add glow, shadow, and transparency effect to some items as well.
 * Simply copy and paste the code into your userChrome.css file and adjust the color variables to suit your preferences. 
 **Note: The code is designed to work with the default Thunderbird theme. If you are using a custom theme, you may need to adjust the code accordingly.
