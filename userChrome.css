@@ -47,10 +47,14 @@
   --sidebar-highlight-background-color: var(--tbcustom-button-color) !important;
   --sidebar-highlight-border-color: var(--tbcustom-button-color) !important;
   --folderpane-unread-count-background: var(--tbcustom-button-color) !important;
+  --folderpane-unread-new-count-background: var(--tbcustom-button-color) !important;
+  --new-folder-color: var(--tbcustom-button-color) !important;
+
+  --spaces-bg-color: #171717e1 !important;
 
   --color-gray-05: #dddddde1 !important; /*ADD Transparency to the default grays*/
-  --color-gray-10: #c9c9c9e1 !important;
-  --color-gray-20: #bebebee1 !important;
+  --color-gray-10: #c9c9c9e1 !important; /* Note due to how common these names are, effects are likely to bleed to other chromium apps*/
+  --color-gray-20: #bebebee1 !important; /*You should apply uses more specifically or delete them if this is an issue*/
   --color-gray-30: #a5a5a5e1 !important;
   --color-gray-40: #666666e1 !important;
   --color-gray-50: #3d3d3de1 !important;
