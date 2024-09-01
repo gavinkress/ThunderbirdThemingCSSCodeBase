@@ -6,8 +6,8 @@
 <p style="text-align: center; font-size: 1.2em; color: #00a57c;">
   Welcome to the hub for customizing and enhancing your Thunderbird experience! 
   We are dedicated to sharing everything from custom CSS snippets to themes and even fully developed tools that can enhance the Thunderbird experience. Whether you're looking to tweak colors, add new features, or create an entirely new theme, this is the place to start.
-  If you are just here to use the tools, scripts, or resources feel free. If you are unfamilliar with using custom CSS, see the explaination below. 
-  If you have a particularly organized and functional personal custom CSS script, have developed a useful themeing tool, or a unique css snippet and are here to contribute. Thank you! Read the details below to get started.
+  If you are just here to use the tools, scripts, or resources but are unfamilliar with using custom CSS, see the explaination below. 
+  Otherwise if you have a particularly organized and functional personal custom CSS script, have developed a useful themeing tool, or a unique css snippet and are here to contribute. thank you! Read the details below to get started.
 </p>
 
 <hr style="border: 2px solid #00a57c;" />
@@ -46,7 +46,7 @@
   Introduction to Using CSS in Thunderbird
 </h2>
 <p style="font-size: 1.1em; color: #333;">
-  This section will guide you through customizing the appearance of Thunderbird using CSS. The provided code allows you to fully customize the Thunderbird message table and other UI elements. You can adjust colors, add effects like shadows and transparency, and much more. Follow these steps to apply your custom CSS:
+  This section will guide you through customizing the appearance of Thunderbird using CSS. The provided code allows you to customize aspects of Thunderbird UI from simply changing colors to completely altering the look of your app. Follow these steps to apply your custom CSS:
 </p>
 <ol style="line-height: 1.8; font-size: 1.1em; color: #333;">
   <li>Open Thunderbird and go to the "Help" menu.</li>
@@ -73,6 +73,6 @@
 <p style="text-align: center; color: #00a57c;">
   <a href="https://github.com/gavinkress/ThunderbirdThemingCSSCodeBase" style="color: #0A74DA; text-decoration: none;">
     <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="GitHub Logo" style="height: 40px; vertical-align: middle;">
-    Visit the Repository
+    Repository Home Page
   </a>
 </p>
