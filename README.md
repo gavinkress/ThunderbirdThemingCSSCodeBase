@@ -38,8 +38,8 @@
   <li><strong>Open a Pull Request:</strong> Go to the original repository and open a pull request from your branch.</li>
   <p>*If you dont use git/use git locally, feel free to update your fork however you like. I just ask that you are throurough with identifying and documenting changes so its easier to use and combine with other code if possible.</p>
   <p>**One note to be mindful of - global variables declared in <code>:root{}</code> will apply to all instances of the style in which they are declared.</p>
-  <p>  So if you declare a global variable that is commonly used such <code>--blue"</code> it has a good chance to affect other chromium based applicatoins that allow custom css (Chrome/Edge).</p>
-  <p>  You may or ma not use these applicatoins or notice this, and if you do notice it, it may be a desired effect (such as in commit 1). Just be sure to document this so its easily removable for users who run into issues.</p>
+  <p>  So if you declare a global variable that is commonly used such <code>--blue</code> it has a good chance to affect other chromium based applicatoins that allow custom css (Chrome/Edge).</p>
+  <p>  You may or may not use these applicatoins or notice this, and if you do notice it, it may be a desired effect (such as in commit 1). Just be sure to document this so its easily removable for users who run into issues.</p>
 </ol>
 
 <hr style="border: 2px solid #00a57c;" />
